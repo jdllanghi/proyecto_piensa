@@ -16,8 +16,6 @@ La contenerización de aplicaciones es una técnica clave en el desarrollo moder
 
 **Docker Compose**: Herramienta para definir y correr múltiples contenedores Docker. Se utiliza un archivo `docker-compose.yml` para levantar tanto el backend como el frontend y asegurar que se comuniquen mediante una red definida.
 
-**Figura 1-1. Arquitectura de contenedores**  
-![Arquitectura de contenedores](https://miro.medium.com/v2/resize:fit:800/format:webp/1*cK59mW6jExmzk7v7kxix_A.png)
 
 # 4. Conocimientos previos
 
